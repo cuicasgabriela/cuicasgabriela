@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I am Gabriela. I got my bachelors degree in Electrical Engineering from UNLV. After graudating, I self taught myself C and C++ while working as an engineer. I love to program and started self teaching various topics as well as attempting prompts from Hacker Rank. My goal is to become really good at programming and fully work remote.
+I am Gabriela. I got my bachelors degree in Electrical Engineering from UNLV. After graudating, I self learned C and C++ while working as an engineer. I love to program and started self teaching various topics as well as attempting prompts from Hacker Rank. My goal is to become really good at programming and fully work remote.
 
 - 🔭 I’m currently working on getting certified on Java, MySQL, and Spring Boot
 - 🌱 I’m currently learning Java for BE development
